@@ -1,0 +1,24 @@
+command:
+php spark serve : jalanin server
+npm run watch : jalanin tailwind
+
+php artisan make:controller ActorsController -r 
+php artisan make:view-model ActorsViewModel 
+composer require spatie/laravel-view-models
+php artisan make:view-model ActorViewModel
+php artisan make:controller TvController -r  
+php artisan make:view-model TvViewModel 
+php artisan make:component TvCard
+php artisan make:view-model TvShowViewModel
+
+component yang di gunakan:
+-Laravel 8
+-tailwindcss v3.0
+-laravel livewire
+-alpine.js
+-spatie laravel-view-model
+-infinite-scroll.com
+
+cara production
+-jalankan "npm run production"
+-npm install laravel-mix-purgecss --save-dev, masukan require di webpack.mix.js,  masukan .purgecss() di paling bawah
