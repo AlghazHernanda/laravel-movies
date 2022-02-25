@@ -1,6 +1,6 @@
 # laravel-movies
  website for checking Movies, Tv Shows, and Actor/Actress information
-![Movies Image](https://github.com/AlghazHernanda/Alz-mern-social-app/blob/main/client/social-media-feed.JPG?raw=true)
+![Movies Image](https://github.com/AlghazHernanda/laravel-movies/blob/main/movies.JPG?raw=true)
 ## This website was built using MERN stack and other, namely:
 - **MongoDB Database**
    - NoSQL Database for storing users data, feed data, followers and following data, likes data
