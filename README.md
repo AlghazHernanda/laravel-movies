@@ -9,6 +9,8 @@ This is a website to display information about movies, tv shows, and actors/actr
 
 ## This website was built using many tools, namely:
 - **Laravel 8**
+
+- **API Data from themoviedb.com**
    
 - **Tailwindcss V3.0** 
 
