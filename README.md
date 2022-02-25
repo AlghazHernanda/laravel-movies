@@ -5,6 +5,7 @@ This is a website to display information about movies, tv shows, and actors/actr
  
 ![Movies Image](https://github.com/AlghazHernanda/laravel-movies/blob/main/movies.JPG?raw=true)
 ![Movie Image](https://github.com/AlghazHernanda/laravel-movies/blob/main/movie.JPG?raw=true)
+![Actor Image](https://github.com/AlghazHernanda/laravel-movies/blob/main/actor.JPG?raw=true)
 
 ## This website was built using many tools, namely:
 - **Laravel 8**
